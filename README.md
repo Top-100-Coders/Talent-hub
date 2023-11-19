@@ -16,10 +16,24 @@ Our collaborative efforts during the hackathon focused on enhancing the discover
 
 ## Contribution Section
 
-- **Aanand Deva Suresh** (Lead) - BPP and BAP design and integration
-- **Ananda Krishnan** - UI/UX Designing, Adaptor for BPP
-- **Adrin Jose** - Front end - Beckn integration, Auth
-- **Rovan Thomas** - JSON config, Front end 
+### [Aanand Deva Suresh (Lead)](https://github.com/Keyes1)
+- **Role:** Lead
+- **Responsibilities:** Spearheaded the design and integration of both BPP (Back-End Processing) and BAP (Back-End Application). Played a pivotal role in aligning the various components of the project.
+
+### [Ananda Krishnan](https://github.com/insertyourusernamehere)
+- **Role:** UI/UX Designer
+- **Responsibilities:** Led the charge in crafting the user interface and experience design. Developed a visually appealing and user-friendly interface. Additionally, contributed to the creation of an adaptor for BPP, enhancing overall system compatibility.
+
+### [Adrin Jose](https://github.com/Adrin7113)
+- **Role:** Front-End Developer
+- **Responsibilities:** Specialized in Beckn integration and authentication processes. Worked on the front-end development, ensuring a seamless and efficient user interaction. Contributed significantly to the overall user authentication system.
+
+### [Rovan Thomas](https://github.com/rovxn)
+- **Role:** Developer
+- **Responsibilities:** Focused on JSON configuration and front-end development. Contributed to shaping the project's structure through the implementation of JSON configurations. Worked on the front-end to enhance the overall user interface.
+
+**Note:** The contributions listed above reflect the individual efforts of the team members. Despite challenges faced in the integration process, the dedication and expertise of each team member have been instrumental in advancing the project. The team is actively working towards a prompt resolution and completion of the integrated project.
+
 
 ## Proof of Work and Decentralized Hosting
 
@@ -81,7 +95,8 @@ As we look forward to enhancing the visual appeal of **Talent Hub** In the futur
 
 
 
-
+## NOTE
+Regrettably, the allotted time for the challenge proved to be more challenging than anticipated, hindering our ability to seamlessly integrate all components of the program. Unforeseen incidents disrupted our progress, and while the individual parts function as demonstrated in the "Proof of Work" directory, we have encountered difficulties in bringing the entire project together. We are committed to completing the integration as soon as possible.
 
 
 
