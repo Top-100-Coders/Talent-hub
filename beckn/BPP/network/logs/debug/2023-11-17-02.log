@@ -1,0 +1,32 @@
+2023-11-16T20:34:59.520Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:35:29.568Z [test] error: connect ECONNREFUSED 127.0.0.1:27017
+2023-11-16T20:37:53.474Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:37:53.541Z [test] info: Mongo Client Connected For DB: protocolserver-v2-response-cache
+2023-11-16T20:37:53.544Z [test] info: Redis Client Connected For DB: 11
+2023-11-16T20:37:53.546Z [test] info: Lookup Cache Initialized...
+2023-11-16T20:37:53.550Z [test] info: Redis Client Connected For DB: 12
+2023-11-16T20:37:53.551Z [test] info: Request Cache Initialized...
+2023-11-16T20:37:55.190Z [test] info: Protocol Server started on PORT : 5002
+2023-11-16T20:37:55.191Z [test] info: Protocol Server Started Successfully
+2023-11-16T20:37:55.191Z [test] info: Mode: BPP
+2023-11-16T20:37:55.192Z [test] info: Gateway Type: NETWORK
+2023-11-16T20:40:05.788Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:40:05.836Z [test] info: Mongo Client Connected For DB: protocolserver-v2-response-cache
+2023-11-16T20:40:05.839Z [test] info: Redis Client Connected For DB: 11
+2023-11-16T20:40:05.840Z [test] info: Lookup Cache Initialized...
+2023-11-16T20:40:05.842Z [test] info: Redis Client Connected For DB: 12
+2023-11-16T20:40:05.843Z [test] info: Request Cache Initialized...
+2023-11-16T20:40:07.453Z [test] info: Protocol Server started on PORT : 5002
+2023-11-16T20:40:07.454Z [test] info: Protocol Server Started Successfully
+2023-11-16T20:40:07.454Z [test] info: Mode: BPP
+2023-11-16T20:40:07.455Z [test] info: Gateway Type: NETWORK
+2023-11-16T21:27:16.890Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T21:27:16.944Z [test] info: Mongo Client Connected For DB: ps
+2023-11-16T21:27:16.947Z [test] info: Redis Client Connected For DB: 11
+2023-11-16T21:27:16.948Z [test] info: Lookup Cache Initialized...
+2023-11-16T21:27:16.949Z [test] info: Redis Client Connected For DB: 12
+2023-11-16T21:27:16.949Z [test] info: Request Cache Initialized...
+2023-11-16T21:27:18.631Z [test] info: Protocol Server started on PORT : 5002
+2023-11-16T21:27:18.632Z [test] info: Protocol Server Started Successfully
+2023-11-16T21:27:18.632Z [test] info: Mode: BPP
+2023-11-16T21:27:18.633Z [test] info: Gateway Type: NETWORK
