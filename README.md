@@ -32,3 +32,20 @@ A great thanks to our mentor, **Mr. Faiz Muhammad**, for invaluable assistance w
 ## Explore More
 
 Discover the intricacies of **Talent Hub** and our collaborative journey by exploring the [project repository](https://github.com/Top-100-Coders/knv2). Immerse yourself in the documentation and join us on this transformative path as we reshape recruitment dynamics with **Talent Hub** and the **Beckn Protocol**.
+
+## Environmental Variables
+
+To run **Talent Hub** auth server, create a `.env` file in the root directory with the following content:
+
+```dotenv
+# .env
+
+# MongoDB connection string
+MONGO_URI=INSERT_MONGODB_KEY_HERE
+
+# Port number to run the server
+PORT=INSERT_PORT_TO_RUN_THE_SERVER
+
+# Secret for JWT authentication
+SECRET=FOR_JWT_AUTH
+
