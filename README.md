@@ -48,4 +48,13 @@ PORT=INSERT_PORT_TO_RUN_THE_SERVER
 
 # Secret for JWT authentication
 SECRET=FOR_JWT_AUTH
+```
 
+## Adding Screenshots
+
+As we look forward to enhancing the visual appeal of **Talent Hub**, We're adding screenshots to showcase the user interface and functionalities.
+![Desktop - 2](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/818c5e42-4fad-4a5c-83a6-6f40a820a3d5)
+![Desktop - 3](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/975650b3-81bf-428b-b405-bfb6d6392692)
+![Group 119](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/708c981f-b765-4c46-96f4-132fa7bd6bf7)
+![Desktop - 7](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/531d0b07-2913-46f6-ba3d-62d0688dbe6b)
+![Desktop - 9](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/cf793999-f22b-48b3-8198-8569df3380f3)
