@@ -52,9 +52,36 @@ SECRET=FOR_JWT_AUTH
 
 ## Adding Screenshots
 
-As we look forward to enhancing the visual appeal of **Talent Hub**, We're adding screenshots to showcase the user interface and functionalities.
+As we look forward to enhancing the visual appeal of **Talent Hub** In the future, We're adding screenshots to showcase our planned user interface and functionalities.
 ![Desktop - 2](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/818c5e42-4fad-4a5c-83a6-6f40a820a3d5)
 ![Desktop - 3](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/975650b3-81bf-428b-b405-bfb6d6392692)
 ![Group 119](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/708c981f-b765-4c46-96f4-132fa7bd6bf7)
 ![Desktop - 7](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/531d0b07-2913-46f6-ba3d-62d0688dbe6b)
 ![Desktop - 9](https://github.com/insertyourusernamehere/beckn-prototype/assets/114121995/cf793999-f22b-48b3-8198-8569df3380f3)
+
+## Beckn Implementation - Proof of work
+
+#BAP Client
+![WhatsApp Image 2023-11-20 at 00 34 41_b0d62a77](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/37b57936-59e6-4e0a-9f8d-9dd0037bdec8)
+![WhatsApp Image 2023-11-20 at 00 34 41_2336500a](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/bad92274-07cc-41fc-b5c4-b7e9376c41a4)
+![WhatsApp Image 2023-11-20 at 00 34 41_90fd3fbd](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/ba99e00b-c2d8-4810-abd7-c363973f8d6d)
+
+#BAP Network
+![WhatsApp Image 2023-11-20 at 00 34 55_87620588](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/59d1eafd-6b19-4f4c-aa1d-811dccdf67f6)
+![WhatsApp Image 2023-11-20 at 00 34 55_82d20efe](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/dd340f4b-2f94-48c7-83d1-237c96ac67af)
+
+#Sending request using Postman
+![WhatsApp Image 2023-11-20 at 00 35 11_6e0e0016](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/3abf5f0e-ffc4-4595-bf58-9e0c145c2b13)
+
+#BPP
+![image](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/177e12f9-d7d7-4a02-b668-6715f4eaf458)
+![image](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/5a284632-1e9c-40f9-baa7-fa4ec0120fc1)
+![image](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/c5abfdce-f553-4a52-b35e-c7497aa1dd8a)
+![image](https://github.com/Top-100-Coders/Talent-hub/assets/114121995/e4864857-41b6-409b-bffe-e6d485e9b176)
+
+
+
+
+
+
+
